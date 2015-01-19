@@ -7,7 +7,7 @@ BattleLanker
 
 
 ## Requirement
-( 超次元カードバトルTRPG カードランカー )[http://www.bouken.jp/pd/cr/] 冒険企画局 1500円（税別）  
+[ 超次元カードバトルTRPG カードランカー](http://www.bouken.jp/pd/cr/) 冒険企画局 1500円（税別）  
 ３〜５人のvim好きな卓ゲーマー  
 騒いでも誰にも迷惑をかけない場所  
 六面ダイス 2 * 人数個 アプリ等で代用可  
@@ -32,9 +32,9 @@ BattleLanker
 
 ## AUTHOR
 
-(keizo)[https://github.com/KeizoBookman]
+[keizo](https://github.com/KeizoBookman)
 
 
 ## Contact me
-twitter : @keizo_bookman
-mail: keizo.bookman at gmail.com
+twitter : @keizo_bookman  
+mail: keizo.bookman at gmail.com  
